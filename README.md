@@ -1,8 +1,8 @@
 INTRODUCTION :
 
-A JavaScript (nodejs) application that makes an HTTP GET request to https://interview.adpeai.com/api/v1/get-task and then, using the ID and properes returned, dynamically perform the calculaon as instructed.
+A JavaScript (nodejs) application that makes an HTTP GET request to https://interview.adpeai.com/api/v1/get-task and then, using the ID and properties returned, dynamically perform the calculation as instructed.
 
-Once you have your ID and your result, make an HTTP POST request to https://interview.adpeai.com/api/v1/submit-task with a JSON POST body including the properes id and result.
+Once you have your ID and your result, make an HTTP POST request to https://interview.adpeai.com/api/v1/submit-task with a JSON POST body including the property ID and result.
 
 The submit-task endpoint will return as follows:
 
